@@ -1,3 +1,4 @@
 # luento
-luento github
 ---- MUOKKAUS
+ASDFASDFASDFASDF
+Tässä muutamia tärkeitä muutoksia.
